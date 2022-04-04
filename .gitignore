@@ -37,3 +37,6 @@ out/
 .vscode/
 
 docker/db/data/
+
+### Macbook ###
+.DS_Store
